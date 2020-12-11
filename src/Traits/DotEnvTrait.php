@@ -1,6 +1,6 @@
 <?php
 
-namespace Transloyd\Services\Traits;
+namespace Transloyd\Traits;
 
 use Symfony\Component\Dotenv\Dotenv;
 

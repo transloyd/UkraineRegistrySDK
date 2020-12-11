@@ -1,6 +1,6 @@
 <?php
 
-namespace Transloyd\Services\UkraineRegistry;
+namespace Transloyd\UkraineRegistry;
 
 use Psr\Http\Message\RequestInterface;
 use stdClass;

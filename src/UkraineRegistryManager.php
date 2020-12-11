@@ -1,6 +1,6 @@
 <?php
 
-namespace Transloyd\Services\UkraineRegistry;
+namespace Transloyd\UkraineRegistry;
 
 class UkraineRegistryManager
 {

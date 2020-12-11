@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Transloyd\Services\UkraineRegistry;
+namespace Transloyd\UkraineRegistry;
 
-use Transloyd\Services\Traits\DotEnvTrait;
-use Transloyd\Services\UkraineRegistry\Exception\{InvalidResponse, InvalidResponseException, NameException};
+use Transloyd\Traits\DotEnvTrait;
+use Transloyd\UkraineRegistry\Exception\{InvalidResponse, InvalidResponseException, NameException};
 
 class UkraineRegistry extends Facade
 {

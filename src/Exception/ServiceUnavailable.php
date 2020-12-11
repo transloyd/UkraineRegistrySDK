@@ -1,6 +1,6 @@
 <?php
 
-namespace Transloyd\Services\UkraineRegistry\Exception;
+namespace Transloyd\UkraineRegistry\Exception;
 
 use RuntimeException;
 

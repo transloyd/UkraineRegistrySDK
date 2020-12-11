@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Transloyd\Services\UkraineRegistry\Exception;
+namespace Transloyd\UkraineRegistry\Exception;
 
 use RuntimeException;
 

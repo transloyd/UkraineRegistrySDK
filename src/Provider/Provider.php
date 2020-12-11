@@ -1,11 +1,11 @@
 <?php
 
-namespace Transloyd\Services\UkraineRegistry;
+namespace Transloyd\UkraineRegistry;
 
 use Psr\Http\Client\ClientInterface;
 use Http\Message\RequestFactory;
 use Psr\Http\Message\{RequestInterface, ResponseInterface, StreamInterface, UriInterface};
-use Transloyd\Services\UkraineRegistry\Exception\{Exception as ProviderException, InvalidResponse, ServiceUnavailable};
+use Transloyd\UkraineRegistry\Exception\{Exception as ProviderException, InvalidResponse, ServiceUnavailable};
 
 class Provider
 {
